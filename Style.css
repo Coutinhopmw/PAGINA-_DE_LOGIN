@@ -1,0 +1,46 @@
+body
+{
+    background-color:rgb(231, 230, 230);
+    font: 20 px arial;
+}
+
+.conteiner
+{
+    position: fixed;
+    padding-bottom: 40px;
+    width: 30%;
+    bottom: 30%;
+    left: 35%;
+    
+}
+
+.forms
+{
+   margin: auto;
+   margin-top: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.margim
+{
+    margin: auto;
+    margin-top: 10px;
+}
+
+.lard
+{
+    width: 100%;
+}
+.bottons
+{
+    margin-top: 10px;
+}
+
+.rodape
+{
+    background-color: blue;
+    width: auto;
+}
